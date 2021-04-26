@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+## Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A loop countdown timer that use to repeats or loops as many times as you want.
+
 
 ## Available Scripts
 
