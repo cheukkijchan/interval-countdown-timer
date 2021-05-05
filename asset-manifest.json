@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/interval-countdown-timer/static/css/main.84dc63d0.chunk.css",
+    "main.js": "/interval-countdown-timer/static/js/main.8117bdcf.chunk.js",
+    "main.js.map": "/interval-countdown-timer/static/js/main.8117bdcf.chunk.js.map",
+    "runtime-main.js": "/interval-countdown-timer/static/js/runtime-main.b82ba750.js",
+    "runtime-main.js.map": "/interval-countdown-timer/static/js/runtime-main.b82ba750.js.map",
+    "static/js/2.a7a2742f.chunk.js": "/interval-countdown-timer/static/js/2.a7a2742f.chunk.js",
+    "static/js/2.a7a2742f.chunk.js.map": "/interval-countdown-timer/static/js/2.a7a2742f.chunk.js.map",
+    "index.html": "/interval-countdown-timer/index.html",
+    "static/css/main.84dc63d0.chunk.css.map": "/interval-countdown-timer/static/css/main.84dc63d0.chunk.css.map",
+    "static/js/2.a7a2742f.chunk.js.LICENSE.txt": "/interval-countdown-timer/static/js/2.a7a2742f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b82ba750.js",
+    "static/js/2.a7a2742f.chunk.js",
+    "static/css/main.84dc63d0.chunk.css",
+    "static/js/main.8117bdcf.chunk.js"
+  ]
+}
